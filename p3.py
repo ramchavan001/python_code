@@ -25,6 +25,10 @@ l4.insert(1,78)
 
 print("insert at first index of l4 :-> ",l4) 
 
+#slicing in list
+slice_obj=slice(4,7)
+print("sliced list l3 :-> ",l3[slice_obj])
+
 
 
 
