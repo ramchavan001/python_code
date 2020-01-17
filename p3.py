@@ -1,3 +1,6 @@
+#WAPP take two list , first list contain items as number from 1 to 10, second list contain numbers from 15 to 20 and perform the following task
+#1>shallow copy 2>deep_copy 3>append 4>extend 5>insert 5>slicing and indexing
+
 import copy
 l1=[1,2,3,4,5,6,7,8,9,10]
 l2=[15,16,17,18,19,20]
