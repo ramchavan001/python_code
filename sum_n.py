@@ -1,3 +1,4 @@
+#WAPP which takes an integer as input and performs the sume operation , if enterd input is 0 or negetive number then break the programm
 n=int(input("enter a number : "))
 i=0
 sum=0
