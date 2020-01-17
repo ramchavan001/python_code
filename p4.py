@@ -1,3 +1,6 @@
+#WAPP which takes two integer as input and perform the following operatins
+#1>logical operations 2>comparision operator 3>left shift by 4 4>right shift by 3
+
 num1=int(input("enter first number "));
 num2=int(input("enter second number"));
 
