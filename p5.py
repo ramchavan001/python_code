@@ -1,3 +1,4 @@
+#WAPP which takes two set as inout and perform the operation same as in list example
 import copy
 s1={1,2,3,4,5,6,7,8,9,10}
 s2={15,16,17,18,19,20}
