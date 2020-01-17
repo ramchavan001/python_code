@@ -1,4 +1,5 @@
-
+#WAPP which takes two string and two integer as input and perform the following task
+#1> print 2>concatenation of two string 3>convert both integer into binary 4> find the type 5> find the order  
 
 f_name=input("enter First Name: ")
 l_name=input("enter Last Name: ")
