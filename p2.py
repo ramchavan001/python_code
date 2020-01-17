@@ -1,3 +1,5 @@
+#WAPP which takes two string as input and perform the following operations
+#1> lowercase 2>uppercase 3>titlecase 4>join operation 5>padding
 
 str1=input("enter first String -> ")
 str2=input("enter second String -> ")
